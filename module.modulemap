@@ -1,0 +1,4 @@
+module CGLEW [system] {
+  header "module.h"
+  export *
+}
